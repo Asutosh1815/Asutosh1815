@@ -95,18 +95,3 @@ I am a Computer Science & Engineering undergraduate with a strong focus on **Art
 | **IoT Smart Home Automation** | `C++` `IoT` `Blynk` `Hardware` | Smart automation system connecting household appliances for remote monitoring and mobile app control. |
 
 ---
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <!-- GitHub Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Asutosh1815&show_icons=true&hide_border=false&title_color=06b6d4&text_color=cbd5e1&icon_color=06b6d4&border_color=1e293b&bg_color=070b14" alt="Asutosh Sahu GitHub Stats" width="49%" />
-
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asutosh1815&layout=compact&hide_border=false&title_color=06b6d4&text_color=cbd5e1&border_color=1e293b&bg_color=070b14" alt="Most Used Languages" width="49%" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asutosh1815&theme=dark&background=070b14&border=1e293b&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Asutosh Sahu GitHub Streak" width="98%" />
-</p>
